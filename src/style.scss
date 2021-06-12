@@ -9,7 +9,6 @@
     background: #F0F0F0 0% 0% no-repeat padding-box;
     display   : flex;
     flex-flow : column;
-    border    : 1px solid red;
 }
 
 .contentContainer {
@@ -41,7 +40,6 @@ h1 {
 p {
     font            : normal normal normal 24px/36px Helvetica Neue;
     line-height     : 0px;
-    background-color: chocolate;
 }
 
 .block {
@@ -65,7 +63,6 @@ p {
     height          : 0px;
     border          : 1px solid #2EB738;
     background-color: #2EB738;
-    opacity         : 1;
 }
 
 .lineX {
@@ -90,8 +87,6 @@ p {
     flex-flow    : column;
     flex-wrap    : wrap;
     padding      : 50px 30px;
-    
-    border: 1px solid black;
 }
 
 .multiplicand {
